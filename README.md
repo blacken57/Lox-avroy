@@ -1,2 +1,2 @@
 # Lox-avroy
-it is my implementation of the Lox Programming langiage interpreter.
+It is my implementation of the Lox Programming Language interpreter.
